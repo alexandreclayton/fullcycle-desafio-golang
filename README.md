@@ -12,4 +12,3 @@ docker run alexandreclayton/codeeducation
 
 ### Links
 - Link do DockerHub: [alexandreclayton/codeeducation](https://hub.docker.com/r/alexandreclayton/codeeducation)
-
